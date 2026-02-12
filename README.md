@@ -20,8 +20,8 @@ If this dataset is derived from a public source (such as the UCI Sonar dataset),
 
 ## Project Structure
 
-- [SONAR.ipynb](SONAR.ipynb) — Main Jupyter notebook with data loading, analysis, model training, and evaluation.
-- [sonar_data.csv](sonar_data.csv) — Sonar dataset used for classification.
+- [SONAR.ipynb](SONAR.ipynb)-Main Jupyter notebook with data loading, analysis, model training, and evaluation.
+- [sonar_data.csv](sonar_data.csv)-Sonar dataset used for classification.
 
 ## Requirements
 
