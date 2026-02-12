@@ -80,8 +80,3 @@ Potential extensions for this project:
 - Apply feature selection or dimensionality reduction (e.g., PCA) to analyze the most informative features.
 - Add calibration and additional metrics (precision, recall, F1-score, ROC-AUC).
 - Package the trained model and expose it via a simple API or web interface.
-
-## License
-
-Add your chosen license here (e.g., MIT, Apache 2.0), or specify any dataset-specific usage restrictions if applicable.
-
